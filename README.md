@@ -2,7 +2,6 @@
   <h1>Ouwen Yang Xia</h1>
   <p><b>Data Engineering & AI Student @ UCM</b></p>
   <p>I build data pipelines, machine learning systems, and automated cloud workflows.</p>
-  <p>Madrid, Spain</p>
 </div>
 
 ---
